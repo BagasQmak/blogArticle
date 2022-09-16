@@ -96,13 +96,19 @@
                             <h5 class="card-title">Halo Admin</h5>
                             <div class="list-group">
                                 <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
-                                    <i class="fa-solid fa-gauge mr-2"></i> Admin Dashboard
+                                    <i class="fa-solid fa-gauge fa-fw mr-1"></i> Admin Dashboard
                                 </a>
                                 <a href="#" class="list-group-item list-group-item-action">
-                                    <i class="fa-solid fa-calendar-days mr-2"></i>A second link item</a>
-                                <a href="#" class="list-group-item list-group-item-action">A third link item</a>
-                                <a href="#" class="list-group-item list-group-item-action">A fourth link item</a>
-                                <a class="list-group-item list-group-item-action disabled">A disabled link item</a>
+                                    <i class="fa-solid fa-calendar-days fa-fw mr-2"></i>Arsip Artikel</a>
+                                <a href="#" class="list-group-item list-group-item-action">
+                                    <i class="fa-solid fa-pen fa-fw mr-2"></i>Tambah Artikel</a>
+                                <a href="#" class="list-group-item list-group-item-action">
+                                    <i class="fa-solid fa-book fa-fw mr-2"></i>Kliping</a>
+                                <a href="#" class="list-group-item list-group-item-action">
+                                    <i class="fa-solid fa-comment fa-fw mr-2"></i>Maintain Comment</a>
+                                <a href="#" class="list-group-item list-group-item-action">
+                                    <i class="fa-regular fa-right-to-bracket fa-fw mr-2"></i>Logout</a>
+
                             </div>
                         </div>
                     </div>
